@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener{
 
     TextView tvResult;
 
-    String oper = "";
+    String oper = "a";
 
     final int MENU_RESET_ID = 1;
     final int MENU_QUIT_ID = 2;
