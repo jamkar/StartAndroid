@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbaritems/actionbaritems.iml" filepath="$PROJECT_DIR$/actionbaritems/actionbaritems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" filepath="$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionmode/actionmode.iml" filepath="$PROJECT_DIR$/actionmode/actionmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityresult/activityresult.iml" filepath="$PROJECT_DIR$/activityresult/activityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialogprepare/alertdialogprepare.iml" filepath="$PROJECT_DIR$/alertdialogprepare/alertdialogprepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialogsimple/alertdialogsimple.iml" filepath="$PROJECT_DIR$/alertdialogsimple/alertdialogsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskcancel/asynctaskcancel.iml" filepath="$PROJECT_DIR$/asynctaskcancel/asynctaskcancel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskparams/asynctaskparams.iml" filepath="$PROJECT_DIR$/asynctaskparams/asynctaskparams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskresult/asynctaskresult.iml" filepath="$PROJECT_DIR$/asynctaskresult/asynctaskresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskrotate/asynctaskrotate.iml" filepath="$PROJECT_DIR$/asynctaskrotate/asynctaskrotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskstatus/asynctaskstatus.iml" filepath="$PROJECT_DIR$/asynctaskstatus/asynctaskstatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customadapter/customadapter.iml" filepath="$PROJECT_DIR$/customadapter/customadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datepickerdialog/datepickerdialog.iml" filepath="$PROJECT_DIR$/datepickerdialog/datepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogfragment/dialogfragment.iml" filepath="$PROJECT_DIR$/dialogfragment/dialogfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicactionbar/dynamicactionbar.iml" filepath="$PROJECT_DIR$/dynamicactionbar/dynamicactionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelist/expandablelist.iml" filepath="$PROJECT_DIR$/expandablelist/expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistevents/expandablelistevents.iml" filepath="$PROJECT_DIR$/expandablelistevents/expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentactivity/fragmentactivity.iml" filepath="$PROJECT_DIR$/fragmentactivity/fragmentactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdynamic/fragmentdynamic.iml" filepath="$PROJECT_DIR$/fragmentdynamic/fragmentdynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlifecycle/fragmentlifecycle.iml" filepath="$PROJECT_DIR$/fragmentlifecycle/fragmentlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getintentaction/getintentaction.iml" filepath="$PROJECT_DIR$/getintentaction/getintentaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler/handler.iml" filepath="$PROJECT_DIR$/handler/handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handleradvmessage/handleradvmessage.iml" filepath="$PROJECT_DIR$/handleradvmessage/handleradvmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlermessagemanage/handlermessagemanage.iml" filepath="$PROJECT_DIR$/handlermessagemanage/handlermessagemanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerrunnable/handlerrunnable.iml" filepath="$PROJECT_DIR$/handlerrunnable/handlerrunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlersimplemessage/handlersimplemessage.iml" filepath="$PROJECT_DIR$/handlersimplemessage/handlersimplemessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headerfooter/headerfooter.iml" filepath="$PROJECT_DIR$/headerfooter/headerfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentextras/intentextras.iml" filepath="$PROJECT_DIR$/intentextras/intentextras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentfilter/intentfilter.iml" filepath="$PROJECT_DIR$/intentfilter/intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutinflater/layoutinflater.iml" filepath="$PROJECT_DIR$/layoutinflater/layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutinflaterlist1/layoutinflaterlist1.iml" filepath="$PROJECT_DIR$/layoutinflaterlist1/layoutinflaterlist1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listfragment/listfragment.iml" filepath="$PROJECT_DIR$/listfragment/listfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multitouch/multitouch.iml" filepath="$PROJECT_DIR$/multitouch/multitouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcelable/parcelable.iml" filepath="$PROJECT_DIR$/parcelable/parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencefragment/preferencefragment.iml" filepath="$PROJECT_DIR$/preferencefragment/preferencefragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencescode/preferencescode.iml" filepath="$PROJECT_DIR$/preferencescode/preferencescode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencesenable/preferencesenable.iml" filepath="$PROJECT_DIR$/preferencesenable/preferencesenable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencessimple2/preferencessimple2.iml" filepath="$PROJECT_DIR$/preferencessimple2/preferencessimple2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runnableuithread/runnableuithread.iml" filepath="$PROJECT_DIR$/runnableuithread/runnableuithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" filepath="$PROJECT_DIR$/saveinstancestate/saveinstancestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebackbroadcast/servicebackbroadcast.iml" filepath="$PROJECT_DIR$/servicebackbroadcast/servicebackbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebackpendingintent/servicebackpendingintent.iml" filepath="$PROJECT_DIR$/servicebackpendingintent/servicebackpendingintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebindclient/servicebindclient.iml" filepath="$PROJECT_DIR$/servicebindclient/servicebindclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebindinglocal/servicebindinglocal.iml" filepath="$PROJECT_DIR$/servicebindinglocal/servicebindinglocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebindserver/servicebindserver.iml" filepath="$PROJECT_DIR$/servicebindserver/servicebindserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicekillclient/servicekillclient.iml" filepath="$PROJECT_DIR$/servicekillclient/servicekillclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicekillserver/servicekillserver.iml" filepath="$PROJECT_DIR$/servicekillserver/servicekillserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicesimple/servicesimple.iml" filepath="$PROJECT_DIR$/servicesimple/servicesimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicestop/servicestop.iml" filepath="$PROJECT_DIR$/servicestop/servicestop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleadapter/simpleadapter.iml" filepath="$PROJECT_DIR$/simpleadapter/simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleadaptercustom2/simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/simpleadaptercustom2/simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplebrowser/simplebrowser.iml" filepath="$PROJECT_DIR$/simplebrowser/simplebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" filepath="$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleintent/simpleintent.iml" filepath="$PROJECT_DIR$/simpleintent/simpleintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplelist1/simplelist1.iml" filepath="$PROJECT_DIR$/simplelist1/simplelist1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplelistchoice/simplelistchoice.iml" filepath="$PROJECT_DIR$/simplelistchoice/simplelistchoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplelistevents/simplelistevents.iml" filepath="$PROJECT_DIR$/simplelistevents/simplelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplesqlite/simplesqlite.iml" filepath="$PROJECT_DIR$/simplesqlite/simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplyactvityresult/simplyactvityresult.iml" filepath="$PROJECT_DIR$/simplyactvityresult/simplyactvityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteinnerjoin/sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/sqliteinnerjoin/sqliteinnerjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteonupgradedb/sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/sqliteonupgradedb/sqliteonupgradedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitequery/sqlitequery.iml" filepath="$PROJECT_DIR$/sqlitequery/sqlitequery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitetransaction/sqlitetransaction.iml" filepath="$PROJECT_DIR$/sqlitetransaction/sqlitetransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tab/tab.iml" filepath="$PROJECT_DIR$/tab/tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepickerdialog/timepickerdialog.iml" filepath="$PROJECT_DIR$/timepickerdialog/timepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touch/touch.iml" filepath="$PROJECT_DIR$/touch/touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoactivity/twoactivity.iml" filepath="$PROJECT_DIR$/twoactivity/twoactivity.iml" />
+    </modules>
+  </component>
+</project>
+

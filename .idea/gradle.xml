@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionbaritems" />
+            <option value="$PROJECT_DIR$/actionbarnavigation" />
+            <option value="$PROJECT_DIR$/actionmode" />
+            <option value="$PROJECT_DIR$/activityresult" />
+            <option value="$PROJECT_DIR$/alertdialogprepare" />
+            <option value="$PROJECT_DIR$/alertdialogsimple" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/asynctaskcancel" />
+            <option value="$PROJECT_DIR$/asynctaskparams" />
+            <option value="$PROJECT_DIR$/asynctaskresult" />
+            <option value="$PROJECT_DIR$/asynctaskrotate" />
+            <option value="$PROJECT_DIR$/asynctaskstatus" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/customadapter" />
+            <option value="$PROJECT_DIR$/datepickerdialog" />
+            <option value="$PROJECT_DIR$/dialogfragment" />
+            <option value="$PROJECT_DIR$/dynamicactionbar" />
+            <option value="$PROJECT_DIR$/expandablelist" />
+            <option value="$PROJECT_DIR$/expandablelistevents" />
+            <option value="$PROJECT_DIR$/files" />
+            <option value="$PROJECT_DIR$/fragmentactivity" />
+            <option value="$PROJECT_DIR$/fragmentdynamic" />
+            <option value="$PROJECT_DIR$/fragmentlifecycle" />
+            <option value="$PROJECT_DIR$/getintentaction" />
+            <option value="$PROJECT_DIR$/gridview" />
+            <option value="$PROJECT_DIR$/handler" />
+            <option value="$PROJECT_DIR$/handleradvmessage" />
+            <option value="$PROJECT_DIR$/handlermessagemanage" />
+            <option value="$PROJECT_DIR$/handlerrunnable" />
+            <option value="$PROJECT_DIR$/handlersimplemessage" />
+            <option value="$PROJECT_DIR$/headerfooter" />
+            <option value="$PROJECT_DIR$/intentextras" />
+            <option value="$PROJECT_DIR$/intentfilter" />
+            <option value="$PROJECT_DIR$/layoutinflater" />
+            <option value="$PROJECT_DIR$/layoutinflaterlist1" />
+            <option value="$PROJECT_DIR$/listfragment" />
+            <option value="$PROJECT_DIR$/mediaplayer" />
+            <option value="$PROJECT_DIR$/multitouch" />
+            <option value="$PROJECT_DIR$/parcelable" />
+            <option value="$PROJECT_DIR$/preferencefragment" />
+            <option value="$PROJECT_DIR$/preferencescode" />
+            <option value="$PROJECT_DIR$/preferencesenable" />
+            <option value="$PROJECT_DIR$/preferencessimple2" />
+            <option value="$PROJECT_DIR$/runnableuithread" />
+            <option value="$PROJECT_DIR$/saveinstancestate" />
+            <option value="$PROJECT_DIR$/servicebackbroadcast" />
+            <option value="$PROJECT_DIR$/servicebackpendingintent" />
+            <option value="$PROJECT_DIR$/servicebindclient" />
+            <option value="$PROJECT_DIR$/servicebindinglocal" />
+            <option value="$PROJECT_DIR$/servicebindserver" />
+            <option value="$PROJECT_DIR$/servicekillclient" />
+            <option value="$PROJECT_DIR$/servicekillserver" />
+            <option value="$PROJECT_DIR$/servicesimple" />
+            <option value="$PROJECT_DIR$/servicestop" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/simpleadaptercustom2" />
+            <option value="$PROJECT_DIR$/simplebrowser" />
+            <option value="$PROJECT_DIR$/simplecursoradapter" />
+            <option value="$PROJECT_DIR$/simpleintent" />
+            <option value="$PROJECT_DIR$/simplelist1" />
+            <option value="$PROJECT_DIR$/simplelistchoice" />
+            <option value="$PROJECT_DIR$/simplelistevents" />
+            <option value="$PROJECT_DIR$/simplesqlite" />
+            <option value="$PROJECT_DIR$/simplyactvityresult" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/sqliteonupgradedb" />
+            <option value="$PROJECT_DIR$/sqlitequery" />
+            <option value="$PROJECT_DIR$/sqlitetransaction" />
+            <option value="$PROJECT_DIR$/tab" />
+            <option value="$PROJECT_DIR$/timepickerdialog" />
+            <option value="$PROJECT_DIR$/touch" />
+            <option value="$PROJECT_DIR$/twoactivity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
