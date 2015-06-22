@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 
     public void onclick(View v) {
         mt = new MyTask();
-        mt.execute();
+        mt.execute());
     }
 
     class MyTask extends AsyncTask<Void, Void, Void> {

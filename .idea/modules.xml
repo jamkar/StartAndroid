@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionbaritems/actionbaritems.iml" filepath="$PROJECT_DIR$/actionbaritems/actionbaritems.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" filepath="$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionmode/actionmode.iml" filepath="$PROJECT_DIR$/actionmode/actionmode.iml" />
@@ -82,4 +82,3 @@
     </modules>
   </component>
 </project>
-
