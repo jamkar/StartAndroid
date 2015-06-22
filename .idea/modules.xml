@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionbaritems/actionbaritems.iml" filepath="$PROJECT_DIR$/actionbaritems/actionbaritems.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" filepath="$PROJECT_DIR$/actionbarnavigation/actionbarnavigation.iml" />
@@ -18,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/asynctaskrotate/asynctaskrotate.iml" filepath="$PROJECT_DIR$/asynctaskrotate/asynctaskrotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctaskstatus/asynctaskstatus.iml" filepath="$PROJECT_DIR$/asynctaskstatus/asynctaskstatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraintent/cameraintent.iml" filepath="$PROJECT_DIR$/cameraintent/cameraintent.iml" />
       <module fileurl="file://$PROJECT_DIR$/customadapter/customadapter.iml" filepath="$PROJECT_DIR$/customadapter/customadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/datepickerdialog/datepickerdialog.iml" filepath="$PROJECT_DIR$/datepickerdialog/datepickerdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/dialogfragment/dialogfragment.iml" filepath="$PROJECT_DIR$/dialogfragment/dialogfragment.iml" />
